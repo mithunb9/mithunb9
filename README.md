@@ -1,6 +1,4 @@
-## Mithun Balasubramanian
-## iiAviator
-
+# Mithun Balasubramanian (@iiAviator)
 <!--
 **iiAviator/iiAviator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
