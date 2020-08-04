@@ -3,7 +3,7 @@
 ## I am a self-taught developer who focuses on ML and other projects. I want to start contributing to open source soon!
 
 ### Links:
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/iiaviator/)
+[<img align="left" alt="iiAviator | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/iiaviator/)
 
 <br>
 
