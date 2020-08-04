@@ -13,5 +13,4 @@
 <br>
 
 ### Technologies:
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />]()[<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />]()[<img align="left" alt="Tensorflow" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tensorflow.svg" />]()[<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />]()
-
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />]()[<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />]()[<img align="left" alt="Tensorflow" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tensorflow.svg" />]()[<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />]()<img align="left" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
