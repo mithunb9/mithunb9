@@ -8,7 +8,7 @@
 <br>
 
 ### Languages:
-[<img align="left" alt="Python" width="26px" src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=f1c40f" />]()[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />]()[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />]()
+[<img align="left" alt="Python" src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=f1c40f" />]()[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />]()[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />]()
 
 <br>
 
