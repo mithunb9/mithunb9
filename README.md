@@ -8,7 +8,13 @@
 <br>
 
 ### Languages:
-[<img align="left" alt="Python" src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=f1c40f" />]()[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />]()[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />]()
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=007ACC)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 
 <br>
 
