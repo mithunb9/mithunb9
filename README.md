@@ -1,6 +1,6 @@
 # Mithun Balasubramanian - [@iiAviator](https://www.github.com/iiAviator)
 
-## I am a self-taught developer who focuses on ML and other projects. Check out my website [here](https://www.mithunb.com).
+## I am a self-taught developer and high school student. Check out my website [here](https://www.mithunb.com).
 
 ### Links:
 </a> <a href="https://www.linkedin.com/in/iiaviator/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
