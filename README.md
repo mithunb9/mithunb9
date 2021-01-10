@@ -3,7 +3,7 @@
 ## I am a self-taught developer who focuses on ML and other projects. Check out my website [here](https://www.mithunb.com).
 
 ### Links:
-[](https://www.linkedin.com/in/iiaviator/)
+[Linedin](https://www.linkedin.com/in/iiaviator/)
 
 <br>
 
