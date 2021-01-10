@@ -28,4 +28,4 @@
 
 <br>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iiaviator&layout=compact)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iiaviator&layout=compact&theme=dark)
