@@ -26,5 +26,6 @@
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=339933)
 
+<br>
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iiaviator&layout=compact)]
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iiaviator&layout=compact)
