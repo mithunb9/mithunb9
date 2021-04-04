@@ -16,4 +16,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iiaviator&show_icons=true&locale=en" alt="iiaviator" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iiaviator&" alt="iiaviator" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iiaviator&theme=dark" alt="iiaviator" /></p>
