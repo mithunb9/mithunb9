@@ -45,7 +45,6 @@
 
     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mithunb9&show_icons=true&locale=en&theme=gruvbox&count_private=true" alt="iiaviator" /></p>
     
-
     <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mithunb9&theme=gruvbox&count_private=true" alt="iiaviator" /></p>
 </div>
 
