@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mithun</h1>
-<h3 align="center">I am a developer who is interested in aerospace and AI.</h3>
+<h3 align="center">I am a computer science student and developer who is passionate about aerospace and educational technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iiaviator&label=Profile%20views&color=0e75b6&style=flat" alt="iiaviator" /> </p>
 
