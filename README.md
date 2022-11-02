@@ -9,7 +9,7 @@
 <a href="https://linkedin.com/in/iiaviator" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="iiaviator" height="30" width="40" /></a>
 </p>
 
-<div>
+<div style="background-color: #F0F2EF; color: black; border: 3px solid; border-color: #F0F2EF; border-radius: 10px; padding: 20px;">
     <h3 align="left">Languages:</h3>
     <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -20,7 +20,7 @@
     <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
 </div>
 
-<div>
+<div style="background-color: #F0F2EF; color: black; border: 3px solid; border-color: #F0F2EF; border-radius: 10px; padding: 20px; margin-top: 10px; margin-bottom: 10px;">
     <h3 align="left">Tools and Frameworks:</h3>
     <img width="40" heihgt="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
     <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
