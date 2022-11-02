@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mithun</h1>
-<h3 align="center">I am a computer science student and developer who is passionate about aerospace and educational technology.</h3>
+<h3 align="center">I am studying for my bachelors with honors in computer science and I am passionate about aerospace and educational technology.</h3>
 
 - 🔭 I’m currently working on [Cotes](https://github.com/mithunb9/cotes)
 
