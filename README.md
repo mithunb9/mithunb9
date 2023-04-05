@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Cotes](https://github.com/mithunb9/cotes)
 
-- 👨‍💻 All of my projects are available at [mithunb.com](mithunb.com)
+- 👨‍💻 All of my projects are available at [mithunb.com](https://mithunb.com)
 
 - 📫 How to reach me **mithun@mithunb.com**
 
