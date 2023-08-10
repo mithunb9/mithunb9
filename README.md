@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mithun</h1>
-<h3 align="center">I am studying for my bachelors with honors in computer science and I am passionate about aerospace and educational technology.</h3>
+<h3 align="center">I'm a hardworking and passionate student pursuing my Bachelor's degree with honors in computer science, specializing in software development, artificial intelligence, and technology consulting. I am committed to achieving academic excellence while developing practical experience through internships and extracurricular projects. With a strong foundation in computer science principles and a deep interest in emerging technologies, I am excited to contribute to innovative and impactful projects and to continue growing as a professional.</h3>
 
 - 🔭 I’m currently working on [Cotes](https://github.com/mithunb9/cotes)
 
